@@ -18,15 +18,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">🔭 - I’m working as a researcher in applied artificial intelligence for traffic.<br>📚 - I'm currently pursuing a computer science degree.<br>⚡ - In my free time, I enjoy programming and exploring new technologies.</p>
+![Metrics](/github-metrics.svg)
 
 ###
 
@@ -47,17 +39,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Pablo-Manglano-Redondo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-![Metrics](/github-metrics.svg)
