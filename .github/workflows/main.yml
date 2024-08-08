@@ -14,6 +14,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: Pablo-Manglano-Redondo/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
