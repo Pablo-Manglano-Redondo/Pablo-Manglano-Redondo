@@ -60,4 +60,4 @@
 
 ###
 
-![Metrics](https://metrics.lecoq.io/Pablo-Manglano-Redondo?template=classic&lines=1&habits=1&achievements=1&projects=1&gists=1&introduction=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&gists=false&projects=false&projects.limit=4&projects.descriptions=false&introduction=false&introduction.title=true&config.timezone=Europe%2FMadrid)
+![Metrics](/github-metrics.svg)
