@@ -13,10 +13,6 @@ Software engineer building the systems behind smart mobility, simulation, digita
 
 </div>
 
-<div align="center">
-  <img src="./assets/hero.png" alt="Smart mobility hero" width="100%" />
-</div>
-
 ---
 
 ## What I Design
