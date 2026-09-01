@@ -77,6 +77,3 @@ In practice, that means designing tools for **mobility analytics**, **decision s
   <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
----
-
-**Looking for technical insights or collaboration?** I’m always open to discussing backend architecture, simulation pipelines, or the future of urban mobility. Drop me a line!
