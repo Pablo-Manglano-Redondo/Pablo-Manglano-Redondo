@@ -7,25 +7,7 @@
     </a>
   </h1>
 
-  ### From traffic flows to data flows.
-
-  **I build systems that turn complex real-world behaviour into something observable, analysable, and useful.**
-
-  Software engineer building the systems behind smart mobility, simulation, digital twins, and applied AI.
-
 </div>
-
----
-
-## What I Design
-
-I work on backend-heavy systems at the intersection of **traffic simulation**, **urban mobility**, **digital twins**, and **applied AI**.
-
-What interests me most is not just processing data, but building software that helps **model**, **monitor**, and **understand** how complex real-world systems behave.
-
-In practice, that means designing tools for **mobility analytics**, **decision support**, **simulation pipelines**, and **data-driven operational intelligence**.
-
----
 
 ## What I Work On
 
